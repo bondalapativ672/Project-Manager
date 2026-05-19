@@ -8,7 +8,7 @@ This repository contains my project management case study submission for a cross
 
 # 1. Stakeholder Update Message
 
-Subject: Product Launch Status Update
+
 
 Hi Team,
 
